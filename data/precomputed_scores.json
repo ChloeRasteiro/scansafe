@@ -1,0 +1,687 @@
+{
+  "7290000046327": {
+    "product_id": "7290000046327",
+    "product_name": "Emek Gilboa Yellow Cheese 22% Fat 200g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: E202 (controversial)"
+    },
+    "additive_ids": [
+      "E202"
+    ],
+    "report": "# Food Safety Report\n\n## Emek Gilboa Yellow Cheese, 22% Fat, 200 g — Tnuva\n\n---\n\n## 1. Overall verdict\n\nThis cheese contains one additive, potassium sorbate (E202), a preservative that European food safety assessments consider acceptable at current levels of consumption but that carries some open questions. Nothing here points to an immediate concern, but E202 is classified as **controversial** rather than fully unproblematic.\n\n---\n\n## 2. The additive in detail\n\n### E202 — Potassium sorbate\n**Classification: Controversial**\n\nPotassium sorbate is a preservative used to keep food from spoiling. The European Food Safety Authority (EFSA) has found no evidence that it causes cancer and no evidence that it damages genetic material, and current consumption levels are judged to stay below the safe daily limit ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144); [EFSA/FAF 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\nHowever, three things justify a cautious rating rather than a plain \"OK\":\n\n- **The safe daily limit has been lowered.** The long-standing acceptable daily intake of 25 mg per kg of body weight per day was replaced in 2015 by a temporary limit of just 3 mg, and then set in 2019 at 11 mg — still well under the original figure. The reason was findings on reproduction and development in animal studies ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144); [EFSA/FAF 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\n- **What those animal studies showed.** At high doses, studies reported effects on offspring (including delayed physical and functional development and reduced litter weight), reduced weights of female reproductive organs, lower body weight gain in both parents and pups, and raised blood cholesterol. These effects appeared only at very high doses, far above what people consume, and safety margins were built in accordingly — but they were considered significant enough to force the limit to be revised ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144); [EFSA/FAF 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\n- **An unresolved question about mixtures.** In laboratory tests, substances formed when sorbic acid reacts with nitrites, or with vitamin C in the presence of iron salts, showed the ability to damage genetic material. These ingredient combinations are allowed together in some food categories (such as olives and food supplements). EFSA noted that no study has looked at what happens in real foods during processing and storage, and an industry report submitted in 2019 added no new information — so this gap remains open ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144); [EFSA/FAF 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\nOne further point worth knowing: in the 2015 review, the temporary daily limit was exceeded only among toddlers and children in one country at the highest consumption levels. Under the current 2019 limit, EFSA concluded it would not be exceeded in the standard exposure scenario ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144); [EFSA/FAF 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\n---\n\n## 3. Additives with insufficient data\n\nNone. The single additive identified in this product has been evaluated and classified.\n\n---\n\n*This report summarises existing published safety assessments and adds no information beyond them.*"
+  },
+  "7290000057118": {
+    "product_id": "7290000057118",
+    "product_name": "Emek Yellow Cheese 28% Fat 400g Vacuum",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: E202 (controversial)"
+    },
+    "additive_ids": [
+      "E202"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Emek Yellow Cheese 28% Fat, 400 g, Vacuum-packed (Tnuva)\n\n---\n\n## Overall verdict\n\nThis cheese contains one additive of note, potassium sorbate (E202), which is classified as **controversial** — not because it is considered dangerous at normal levels of consumption, but because European safety authorities have lowered its acceptable daily intake over time and have flagged some unresolved scientific questions.\n\n---\n\n## Additive by additive\n\n### E202 — Potassium sorbate (preservative)\n**Classification: Controversial**\n\nPotassium sorbate is not classified as cancer-causing, and European assessments found no evidence that it damages genetic material; overall consumption is currently estimated to stay below the safe daily limit ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144), [EFSA 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)). However, that safe daily limit has been reduced significantly: it went from 25 mg per kg of body weight per day (set in 1996) down to a temporary 3 mg in 2015, and was then set at 11 mg in 2019 — still far below the original figure. The reason for the change was animal studies in which very high doses were linked to effects on reproduction and on the development of offspring, such as slower growth and delayed development; these effects only appeared at doses far above what people normally consume, but they were considered important enough to justify revising the limit ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144), [EFSA 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\nTwo additional points explain the \"controversial\" label rather than a straightforward \"OK\". European experts noted that substances formed when sorbic acid reacts with nitrites, or with vitamin C in the presence of iron, showed harmful effects on genetic material in laboratory tests, and that these ingredients are allowed together in some foods — yet no study has looked at what actually forms in real foods during processing and storage. A report submitted by industry in 2019 brought no new information on this point, so the knowledge gap remains open ([EFSA 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)). Finally, the 2015 assessment found that the temporary daily limit was exceeded among high-consuming toddlers and children in one country, which is why this group is singled out as more sensitive ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144)).\n\n---\n\n*This report simplifies existing published assessments and adds no information beyond them.*"
+  },
+  "7290000045580": {
+    "product_id": "7290000045580",
+    "product_name": "Naama Processed Cheese with Mushrooms 25% Fat 240g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "red",
+      "label": "🔴 red",
+      "transformation_level": "ULTRA_PROCESSED",
+      "additive_severity": 2,
+      "explanation": "ultra-processed product (4 additives) with a controversial additive: E450 (controversial)"
+    },
+    "additive_ids": [
+      "E450",
+      "E452",
+      "E330",
+      "E202"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Naama Processed Cheese with Mushrooms, 25% Fat, 240 g\n**Brand:** Tnuva\n\n---\n\n## Overall verdict\n\nThis processed cheese contains three additives that regulators consider debated (two phosphate-based emulsifiers and one preservative), plus one additive for which the available documentation did not allow any assessment. None of the additives reviewed here is described in the sources as a proven hazard, but the phosphates and the preservative each come with cautions worth knowing about.\n\n---\n\n## Additive-by-additive review\n\n### E450 — Diphosphates\n**Classification: Controversial**\n\nEuropean food safety authorities (EFSA, 2019) set a maximum recommended daily intake for phosphates, expressed as phosphorus, of 40 mg per kilogram of body weight per day, and concluded this level is protective for the general population. The experts found phosphates to have low short-term toxicity, no concern regarding effects on genes or cancer, and no effects in studies on development. The caution comes from how much people actually consume: the panel found that estimated intakes go above this recommended limit for infants, toddlers and other children on average, and for infants, toddlers, children and adolescents among the highest consumers, as well as through food supplements. The panel also stated that this recommended limit does not apply to people with moderate to severe kidney impairment. It further noted that very high phosphorus intakes may upset the body's regulation of phosphorus, calcium and vitamin D, which could contribute to bone loss, while stressing that the evidence linking dietary phosphates to heart problems or to reduced bone density remains insufficient and inconsistent. ([EFSA, 2019](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674))\n\n### E452 — Polyphosphates\n**Classification: Controversial**\n\nE452 was assessed by EFSA in the same 2019 review as E450 and shares the same recommended limit of 40 mg phosphorus per kilogram of body weight per day. As with E450, the experts reported low short-term toxicity, no concern for effects on genes or cancer, and no effects on development. The same cautions apply: estimated intakes exceed the recommended limit for infants, toddlers and other children on average and for young people among the highest consumers, and food supplements can push intakes above the limit too. The limit does not apply to people with moderate to severe kidney impairment. The panel noted possible disruption of phosphorus, calcium and vitamin D regulation at very high intakes, with a possible contribution to bone loss, but repeatedly described the evidence on heart outcomes and fractures as insufficient and confounded, and called for better intake data. ([EFSA, 2019](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674))\n\n### E330 — Citric acid\n**Classification: Insufficient data**\n\nWe cannot give an assessment of this additive. The document available to us does not evaluate E330 as a food additive at all: it is a safety review of a different family of additives (E472a–f, the esters of mono- and diglycerides of fatty acids). Citric acid appears in that document only as a chemical component of one of those other additives, never as the subject of a safety evaluation. No toxicological data, intake estimate, safe-intake limit or conclusion specific to E330 was available, so no conclusion — reassuring or otherwise — can be drawn here. ([EFSA opinion on E472a–f](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7448088/))\n\n### E202 — Potassium sorbate (preservative)\n**Classification: Controversial**\n\nPotassium sorbate is not classified as cancer-causing, and the assessments found no evidence that it damages genes; current estimated intakes are judged to stay below the recommended safe limit. However, that limit has been lowered over time: the older recommendation of 25 mg per kilogram of body weight per day was cut in 2015 to a temporary 3 mg, then set in 2019 at 11 mg — still well below the original figure. The reason was findings in animal reproduction and development studies at very high doses, including changes in male pups, delayed physical and functional development, reduced organ weights in females, lower weight gain and raised blood cholesterol. Experts also flagged an unresolved question: substances formed when sorbic acid reacts with nitrites, or with vitamin C in the presence of iron salts, were shown to cause genetic changes in laboratory tests, and no study exists on what forms in real foods during processing and storage; an industry report submitted in 2019 added no new information. Finally, the 2015 review noted that the temporary limit was exceeded by high-consuming toddlers and children in one country. ([EFSA, 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144); [EFSA, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/))\n\n---\n\n*This report summarises only the classifications and evidence supplied. It adds no medical or toxicological information beyond those sources and is not medical advice.*"
+  },
+  "7290014758681": {
+    "product_id": "7290014758681",
+    "product_name": "Tnuva Cottage Cheese 1% Fat 250g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: phosphates (controversial)"
+    },
+    "additive_ids": [
+      "phosphates"
+    ],
+    "report": "# Food Safety Report — Tnuva Cottage Cheese 1% Fat 250g (Tnuva)\n\n## Overall verdict\n\nThis product contains one additive of note — phosphates — which is classified as **controversial**: European food safety authorities have not identified a proven hazard at normal levels of use, but they have flagged that some population groups already take in more phosphates than the recommended daily limit from all sources combined.\n\n---\n\n## Additive by additive\n\n### Phosphates — *Controversial*\n\nPhosphates are widely used food additives. In its review, the European Food Safety Authority (EFSA) set a \"group acceptable daily intake\" (ADI) of 40 mg of phosphorus per kilogram of body weight per day, and concluded that this level is protective for the general population. The Panel also reported that phosphates have low acute toxicity when swallowed, raised no concern regarding genotoxicity or cancer, and produced no effects in developmental toxicity studies. ([EFSA, 2019](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674))\n\nThe reason for caution is not the additive itself in a single food, but total intake across the diet. EFSA's exposure estimates exceeded the recommended daily limit for infants, toddlers and other children at average intake levels, and for infants, toddlers, children and adolescents at the high (95th percentile) intake level. The Panel also noted that intake of phosphates from food supplements exceeds the proposed limit. ([EFSA, 2019](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674))\n\nEFSA further specified that this daily limit does **not** apply to people with moderate to severe reduced kidney function, because the safety margin used only covers people with slight kidney impairment. People in that situation may wish to discuss phosphate intake with their doctor. ([EFSA, 2019](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674))\n\nFinally, the scientific picture on long-term health effects is not settled. EFSA stated that there is insufficient evidence to link dietary phosphate intake to cardiovascular outcomes, while noting some evidence linking phosphorus levels measured in blood to cardiovascular disease and cardiovascular mortality. Findings on bone health were inconsistent between studies (one study showed an effect only in women, another only in men). Separately, the Panel concluded that the available data did not raise safety concerns for infants under 16 weeks of age consuming formula or food for medical purposes. ([EFSA, 2019](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674))\n\n**In plain terms:** phosphates are not classified as something to avoid, and no proven harm has been demonstrated at ordinary levels of consumption. The caution comes from the fact that overall intake from the whole diet can exceed the recommended limit, particularly in children, and that the limit does not cover people with significant kidney problems.\n\n---\n\n*This report is based solely on the classifications and evidence provided; no additional health information has been added.*"
+  },
+  "7290116936475": {
+    "product_id": "7290116936475",
+    "product_name": "Yoplait Diet with Citrus Fruits 150g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "red",
+      "label": "🔴 red",
+      "transformation_level": "ULTRA_PROCESSED",
+      "additive_severity": 2,
+      "explanation": "ultra-processed product (3 additive(s), including a synthetic sweetener/flavor enhancer (aspartame, acesulfame_k)) with a controversial additive: aspartame (controversial)"
+    },
+    "additive_ids": [
+      "E1442",
+      "aspartame",
+      "acesulfame_k"
+    ],
+    "report": "# Food Safety Report\n\n## Yoplait Diet with Citrus Fruits, 150 g — Tnuva\n\n---\n\n## Overall verdict\n\nThis yogurt contains three additives: two of them (the modified starch E1442 and the sweetener acesulfame K) are considered safe by food safety authorities at the levels used in food. The third, aspartame, is judged safe for the general population at current intake levels, but carries specific caveats — notably that it is not suitable for people with phenylketonuria (PKU) — which is why we classify it as controversial.\n\n---\n\n## Additive-by-additive review\n\n### E1442 — Hydroxypropyl starch phosphate (thickener)\n**Classification: OK**\n\nE1442 is a modified starch used to give the yogurt its texture. The European Food Safety Authority (EFSA) re-examined modified starches and concluded there is no safety concern at the amounts used in food, and that no maximum daily intake figure needs to be set. The reason is simple: this starch is not absorbed as-is by the body — it is broken down in the gut like other starches. Long-term animal studies at very high doses showed no effects relevant to human health, and no genotoxic concern was identified.\n\nOne point for transparency: EFSA did recommend tightening the allowed limits for trace metal impurities (arsenic, lead, mercury) in modified starches. This is a purity/manufacturing quality issue, not a problem with the additive itself. EFSA also flagged a data gap for infants and young children consuming special medical foods — but that gap concerns other modified starches, **not** E1442.\n*(Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)*\n\n---\n\n### Aspartame (E951) — sweetener\n**Classification: Controversial**\n\nEFSA's 2013 review concluded that aspartame is not a safety concern at current consumption levels, or at the acceptable daily intake of 40 mg per kg of body weight per day — and the authority saw no reason to lower that figure. Long-term animal studies did not show an increase in tumours, and the overall evidence did not point to a genotoxic concern (though one study reported an \"equivocal\" positive result in female mice).\n\nSo why \"controversial\" rather than \"OK\"? Because EFSA itself attached several caveats. First and most clearly: **the acceptable daily intake does not apply to people with phenylketonuria (PKU)**, an inherited condition. People who carry one copy of the PKU gene also have a narrower safety margin than the general population. Second, EFSA stated that developmental effects at doses lower than those tested in animals \"could not be excluded,\" and acknowledged uncertainties in the available data on how aspartame behaves in the body. These are open questions rather than proven risks for the general public — hence the cautious classification. No cancer agency classification is mentioned in the source used here.\n*(Source: https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3496)*\n\n---\n\n### Acesulfame K (E950) — sweetener\n**Classification: OK**\n\nEFSA re-evaluated acesulfame K in 2025 and concluded there is no safety concern at the levels used in food. Notably, the authority *raised* the acceptable daily intake to 15 mg per kg of body weight per day (up from the previous 9 mg), which is the opposite of a precautionary tightening. Estimated intakes across the population — including among the highest consumers — were generally below that level. No genotoxicity concern was found for acesulfame K or its breakdown products.\n\nOne caveat concerns manufacturing quality rather than the sweetener itself: a possible impurity (5-chloro-acesulfame) raised a computer-modelled genotoxicity alert, so EFSA recommended setting a strict limit on it or requesting further data.\n*(Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12041894/)*\n\n---\n\n## Note on data gaps\n\nNone of the three additives in this product fell into the \"insufficient data\" category. All three had enough evidence available for the authorities to reach a conclusion."
+  },
+  "7290004121525": {
+    "product_id": "7290004121525",
+    "product_name": "Yoplait Strawberry Peach 3% Pack 8x150g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "11 ingredients, 1 additive(s), additives with no concern"
+    },
+    "additive_ids": [
+      "E1442"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Yoplait Strawberry Peach 3% — Pack of 8 x 150 g\n**Brand:** Tnuva\n\n---\n\n## Overall verdict\n\nThis product contains one food additive, E1442, which is classified as **OK**. Based on the available assessment, there is no safety concern identified for this additive at the levels used in food.\n\n---\n\n## Additive details\n\n### E1442 — Hydroxypropyl starch phosphate\n**Classification: OK**\n\nE1442 is a modified starch, used as a thickener or texture agent. The European Food Safety Authority (EFSA) reviewed modified starches, including E1442, and concluded that there is no safety concern at the amounts actually used in food, and that no maximum daily intake figure needs to be set ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\nThe reason is fairly simple: this type of starch is not absorbed into the body as such. It is broken down by digestive enzymes and then fermented by gut bacteria, producing short-chain fatty acids that EFSA states do not raise any safety concern. Long-term animal studies using very high amounts (up to 31,000 mg per kg of body weight per day in rats) showed no effects relevant to human risk assessment, and the additive was not found to be of genetic-damage concern based on computer-based analysis ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\nTwo points worth noting for transparency. First, EFSA did flag a data gap for infants and young children consuming special medical foods and special formulae — but that gap concerns other modified starches (E1450, E1404, E1410, E1412, E1413, E1414, E1420, E1451), **not** E1442. Second, EFSA recommended tightening the allowed limits for arsenic, lead and mercury impurities in all modified starches, including E1442. This is a purity/manufacturing-quality recommendation, not a concern about the additive itself ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\n---\n\n*This report covers only the additive listed above and reflects the classifications and sources provided. It does not assess the product's nutritional profile or any other ingredient.*"
+  },
+  "7290004121754": {
+    "product_id": "7290004121754",
+    "product_name": "Yoplait Cheesecake with Strawberry 3% 150g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "11 ingredients, 2 additive(s), additives with no concern"
+    },
+    "additive_ids": [
+      "E1442",
+      "E1422"
+    ],
+    "report": "# Food Safety Report\n\n## Yoplait Cheesecake with Strawberry 3% — 150 g (Tnuva)\n\n---\n\n### Overall verdict\n\nBased on the additives reviewed, this product does not raise any safety concerns: both additives found in it are modified starches that European food safety authorities consider safe at the levels used in food. No additive in this product was classified as controversial, to avoid, or lacking sufficient data.\n\n---\n\n### Additive-by-additive review\n\n#### E1442 — Hydroxypropyl starch phosphate\n**Classification: OK**\n\nE1442 is a modified starch, used mainly to give texture and thickness. The European Food Safety Authority (EFSA) reviewed modified starches and concluded there is no safety concern at the amounts actually used in food — so much so that no maximum daily intake figure was considered necessary. The reason is that our bodies do not absorb these starches as they are: they are broken down in the gut much like ordinary starch, and the resulting substances raise no safety concern. Long-term animal studies at very high doses showed no effects relevant to human health, and no concern was identified regarding effects on genetic material ([EFSA re-evaluation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\n*One clarification:* EFSA did flag a lack of data for some modified starches used in special foods for infants and young children — but E1442 is **not** one of the additives concerned by that limitation. Separately, EFSA recommended tightening the purity limits for trace metals (arsenic, lead, mercury) in modified starches generally; this concerns manufacturing purity standards, not a hazard of the additive itself.\n\n---\n\n#### E1422 — Acetylated distarch adipate\n**Classification: OK**\n\nE1422 is also a modified starch, used as a thickener and stabiliser. EFSA reached the same conclusion for it: no safety concern at the reported uses and levels, with no need to set a maximum daily intake. E1422 is in fact one of the two modified starches with the most complete set of safety studies available, and long-term animal studies at very high doses showed no relevant effects; no concern was identified regarding effects on genetic material ([EFSA re-evaluation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\n*One clarification:* As with E1442, the data gap EFSA noted for infant foods for special medical purposes applies to other modified starches, not to E1422. The recommendation to revise trace-metal purity limits applies to modified starches as a group and is a specification matter, not a health hazard of the additive.\n\n---\n\n### Additives with insufficient data\n\nNone. Both additives assessed in this product had enough evidence available for a conclusion to be drawn."
+  },
+  "7290004119225": {
+    "product_id": "7290004119225",
+    "product_name": "Yoplait Pineapple Flavor 3% 150g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "10 ingredients, 2 additive(s), additives with no concern"
+    },
+    "additive_ids": [
+      "E1442",
+      "E1422"
+    ],
+    "report": "# Food Safety Report\n\n## Yoplait Pineapple Flavor 3% – 150 g (Tnuva)\n\n---\n\n## 1. Overall verdict\n\nBased on the additives reviewed, this product does not raise safety concerns. Both additives found in it are modified starches that European food safety authorities have assessed as safe at the levels used in food.\n\n---\n\n## 2. Additive-by-additive review\n\n### E1442 – Hydroxypropyl starch phosphate\n**Classification: OK**\n\nE1442 is a modified starch, used mainly to give a thicker, more stable texture. The European Food Safety Authority (EFSA) re-examined modified starches and concluded there was \"no safety concern\" at the amounts used in food, and that no maximum daily intake figure was even necessary. The reason is that this ingredient is not taken up into the body as it is: it is broken down in the digestive system and then processed by gut bacteria, producing substances that raise no safety concern. Long-term animal studies using very large amounts showed no effects relevant to human health, and no concern was identified regarding damage to genetic material (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf).\n\nOne point worth clarifying: EFSA did note a lack of data for infants and young children consuming special medical foods and special formulae — but that limitation applies to other modified starches, not to E1442. The only remark specifically involving E1442 is a technical recommendation to tighten the allowed limits for trace metal impurities (arsenic, lead, mercury) in the manufacturing specifications — a purity/quality issue, not a problem with the additive itself (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf).\n\n---\n\n### E1422 – Acetylated distarch adipate\n**Classification: OK**\n\nE1422 is also a modified starch used as a thickener and stabiliser. EFSA reached the same conclusion for it: no safety concern at the reported uses and levels, with no need to set a maximum daily intake. In fact, E1422 is one of the modified starches for which the most complete set of studies was available. As with E1442, it is not absorbed intact but broken down and fermented in the gut, long-term animal studies at very high doses showed no relevant effects, and no concern was identified regarding genetic material (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf).\n\nThe data gap concerning infants and young children on special medical foods applies to other modified starches, not to E1422. As for E1442, the only recommendation involving E1422 relates to tightening impurity limits (arsenic, lead, mercury) in manufacturing specifications (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf).\n\n---\n\n## 3. Additives with insufficient data\n\nNone. Both additives assessed in this product have sufficient data behind their evaluation, and neither was classified as controversial or to be avoided.\n\n---\n\n*This report is limited to the additives listed above and to the information contained in the cited source. It does not assess other aspects of the product, such as sugar, fat or overall nutritional content.*"
+  },
+  "7290014761193": {
+    "product_id": "7290014761193",
+    "product_name": "Prili Wild Berries Yogurt 1.5% 125g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "11 ingredients, 2 additive(s), additives with no concern"
+    },
+    "additive_ids": [
+      "E1442",
+      "E1422"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Prili Wild Berries Yogurt 1.5% — 125 g (Tnuva)\n\n---\n\n## 1. Overall verdict\n\nThis product contains two additives, both of which are classified as **OK**. Based on the available evaluations, neither raises a safety concern at the amounts normally used in food.\n\n---\n\n## 2. Additive-by-additive review\n\n### E1442 — Hydroxypropyl starch phosphate (modified starch)\n**Classification: OK**\n\nE1442 is a modified starch used to give texture and consistency. The European Food Safety Authority (EFSA) re-evaluated modified starches and concluded there is no safety concern at the levels used in food, and that no maximum daily intake figure needs to be set. The evaluation notes that these starches are not absorbed as such by the body: they are broken down in the digestive system and then fermented by gut bacteria, producing substances that do not raise a safety concern. Long-term animal studies at very high doses showed no effects relevant to human risk, and no genetic-damage concern was identified.\n\nTwo points worth mentioning for transparency: EFSA flagged a data gap for infants and young children consuming special medical foods, but that gap concerns *other* modified starches — E1442 is not among them. EFSA also recommended tightening the purity limits for trace metal impurities (arsenic, lead, mercury) in modified starches generally; this is a manufacturing quality/specification matter, not a hazard of the additive itself.\n(Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)\n\n---\n\n### E1422 — Acetylated distarch adipate (modified starch)\n**Classification: OK**\n\nE1422 is another modified starch used as a thickener and stabiliser. EFSA reached the same conclusion for it: no safety concern at the reported uses and levels, and no need for a numerical daily intake limit. It is in fact one of the modified starches with the most complete set of safety data, and long-term studies at very high doses in animals showed no relevant effects. As with E1442, it is not absorbed intact but broken down and fermented in the gut, and no genetic-damage concern was identified.\n\nThe data gap EFSA noted for infants and young children on special medical foods does not apply to E1422 either. The only recommendation specific to it concerns tightening purity limits for trace metal impurities (arsenic, lead, mercury) — again a specification issue rather than a concern about the additive itself.\n(Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)\n\n---\n\n## 3. Additives with insufficient data\n\nNone. Both additives in this product have been assessed with sufficient data available."
+  },
+  "7290116934242": {
+    "product_id": "7290116934242",
+    "product_name": "Jelly Pineapple Flavor 125g EDCH",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: carrageenan (controversial)"
+    },
+    "additive_ids": [
+      "carrageenan"
+    ],
+    "report": "# Food Safety Report — Jelly Pineapple Flavor 125 g EDCH (Tnuva)\n\n## Overall verdict\n\nThis product contains one additive that we have flagged as **controversial**: carrageenan (E 407). European food safety authorities did not identify a proven hazard from food-grade carrageenan, but they also left several questions open, which is why it is not simply rated \"OK\".\n\n---\n\n## Additive by additive\n\n### Carrageenan (E 407) — **Controversial**\n\nCarrageenan is a thickening/gelling ingredient obtained from seaweed. In its 2018 re-evaluation, the European Food Safety Authority (EFSA) found no concern regarding cancer risk or damage to genetic material, and noted that the substance is not absorbed into the body in its intact form; no adverse effects were seen in animal studies even at very high doses ([EFSA 2018](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238)). However, EFSA said the acceptable daily intake of 75 mg per kg of body weight should be considered only **temporary**, because it identified uncertainties about the additive's chemistry, about how much people actually consume, and about the biological and toxicological data; it asked for a better set of data within five years ([EFSA 2018](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238)). EFSA was also able to make a refined consumption estimate for only 41 of 79 food categories, and in a \"brand-loyal\" scenario (someone always eating the same brands) intake for toddlers could reach up to 758.6 mg per kg of body weight per day — well above the temporary acceptable daily intake ([EFSA 2018](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238)).\n\nAn additional point raised by EFSA: it was informed that carrageenan on the market does not necessarily meet the EU limit for the \"low molecular weight\" (smaller-molecule) fraction, which has been linked to health concerns similar to those of *degraded* carrageenan — a different, non-food-grade form that in animal studies caused intestinal inflammation, tissue changes and tumours in rats, and intestinal ulceration and anaemia in monkeys. EFSA specifically singled out toddlers and infants fed foods for special medical purposes as the groups to watch ([EFSA 2018](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238)).\n\n**In short:** no demonstrated hazard from the food-grade form, but an intake limit that authorities themselves call provisional, plus open questions about consumption levels in young children and about the quality of the material on the market.\n\n---\n\n*This report is based solely on the classification and evidence provided for this product. No other additive was assessed here.*"
+  },
+  "7290004132606": {
+    "product_id": "7290004132606",
+    "product_name": "Carlo Mini Vanilla Pudding 8x100g Vaada",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: E450iii (controversial)"
+    },
+    "additive_ids": [
+      "E1442",
+      "E450iii"
+    ],
+    "report": "# Food Safety Report\n\n## Carlo Mini Vanilla Pudding 8×100 g — Vaada (Tnuva)\n\n---\n\n## Overall verdict\n\nThis pudding contains two food additives: one raises no safety concern at normal levels of use, while the other (a phosphate) is subject to some caution, mainly because European experts found that children's total intake of phosphates from all foods can exceed the recommended daily limit. Nothing in the available assessments points to a proven hazard from this product itself.\n\n---\n\n## Additive by additive\n\n### E1442 — Hydroxypropyl starch phosphate (modified starch)\n**Classification: OK**\n\nThis is a modified starch used to thicken and give texture. The European Food Safety Authority (EFSA) reviewed modified starches of this type and concluded there is no safety concern at the amounts used in food, and that no maximum daily intake figure needs to be set. The reason is that the body does not absorb these starches as they are: they are broken down in the digestive system and then fermented by gut bacteria, producing substances that the experts said raise no safety concern. Long-term animal studies at very high doses showed no effects relevant to human safety, and no concern was identified regarding damage to genetic material or cancer.\n\nOne point worth noting for transparency: EFSA recommended tightening the legal limits for trace metal impurities (arsenic, lead, mercury) in modified starches. This is a question of product purity standards, not a problem with the additive itself. Separately, EFSA flagged a lack of data for infants and young children consuming special medical foods — but that gap concerns other modified starches, **not** E1442.\n*(Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)*\n\n---\n\n### E450iii — Tetrasodium diphosphate (a phosphate)\n**Classification: Controversial**\n\nPhosphates are widely used in processed foods. EFSA set a group daily intake limit for phosphates of 40 mg per kilogram of body weight per day and concluded that this limit protects the general population. The experts also reported low toxicity when swallowed in a single dose, no concern regarding damage to genetic material or cancer, and no effects seen in studies on development during pregnancy.\n\nSo why \"controversial\"? EFSA itself raised several cautions. Based on measured levels in foods, the estimated total intake of phosphates **exceeds** the recommended limit for infants, toddlers and other children on average, and for infants, toddlers, children and adolescents among the higher consumers. Intake from food supplements also exceeds the limit. In addition, EFSA stated that this daily limit does **not** apply to people with moderate to severe reduction in kidney function, and it noted nineteen reported cases of acute severe kidney impairment following phosphate use for bowel cleansing (a medical use, not a food use). Finally, EFSA said the evidence is *insufficient* — rather than reassuring — to draw conclusions on links between dietary phosphates and heart-related outcomes or bone health, with some conflicting findings on bone density and fracture risk.\n\nIt is worth adding that EFSA also concluded the available data did not raise safety concerns for infants under 16 weeks consuming formula and foods for medical purposes.\n\nIn short: no proven hazard that would justify avoiding it, but a combination of intake limits being exceeded in children, a sensitive group excluded from the limit, and remaining scientific uncertainty.\n*(Source: https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674)*\n\n---\n\n## Note\n\nNeither additive in this product falls into the \"insufficient data\" category — both have been formally re-evaluated by EFSA. The concerns described for E450iii relate to overall phosphate intake from the whole diet, not to this product alone."
+  },
+  "7290006448392": {
+    "product_id": "7290006448392",
+    "product_name": "Refined Bulgarian Cheese 16% Fat Bulk",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: E202 (controversial)"
+    },
+    "additive_ids": [
+      "E202"
+    ],
+    "report": "# Food Safety Report\n\n## Refined Bulgarian Cheese 16% Fat, Bulk — Tnuva\n\n---\n\n### Overall verdict\n\nThis cheese contains one additive of note, potassium sorbate (E202), a preservative classified here as **controversial** — it is not considered cancer-causing, but European safety authorities have twice lowered its recommended intake limit and have flagged some unanswered questions. There is no indication that normal consumption of this product is unsafe, but the additive is worth being aware of.\n\n---\n\n### Additive detail\n\n#### E202 — Potassium sorbate\n**Classification: Controversial**\n\nPotassium sorbate is a preservative. European Food Safety Authority (EFSA) reviews found no evidence that it causes cancer or damages genetic material, and current levels of consumption are judged to stay below the acceptable daily intake (ADI) — the amount considered safe to consume every day over a lifetime ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144), [EFSA 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\nHowever, the safety limit has been reduced substantially. The long-standing group ADI of 25 mg per kg of body weight per day was replaced in 2015 by a temporary limit of just 3 mg/kg, and then set at 11 mg/kg in 2019 — still well under the original figure. The reason for the revision was findings in animal studies on reproduction and offspring development: effects such as reduced anogenital distance in male second-generation pups, delayed physical and functional development, lower body weight gain in pups and adults, reduced ovary and uterus weights, and raised blood cholesterol. These effects appeared only at very high doses, far above what people normally consume, and the ADI includes a standard 100-fold safety margin ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144), [EFSA 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\nTwo further points keep this additive out of a straightforward \"OK\" category. First, EFSA noted that substances formed when sorbic acid reacts with nitrites, or with vitamin C in the presence of iron salts, were shown to be mutagenic in laboratory tests; these ingredients are allowed together in some food categories, and no study has examined what actually forms in real foods during processing and storage. An industry report submitted in 2019 added no new information, so this gap remains open. Second, in the 2015 review, the temporary limit was exceeded among high-consuming toddlers and children in one country ([EFSA 2015](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144), [EFSA 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)).\n\nNo classification by the International Agency for Research on Cancer (IARC) is mentioned in the sources consulted.\n\n---\n\n*This report is based solely on the additive classifications and supporting evidence provided. No additional health or toxicological information has been introduced.*"
+  },
+  "7290000055350": {
+    "product_id": "7290000055350",
+    "product_name": "Emek Rectangular Yellow Cheese 28% Fat 4.5kg",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: E202 (controversial)"
+    },
+    "additive_ids": [
+      "E202"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Emek Rectangular Yellow Cheese 28% Fat, 4.5 kg\n**Brand:** Tnuva\n\n---\n\n## 1. Overall verdict\n\nThis cheese contains one additive, a preservative (E202), which is classified as **controversial** — it is not considered cancer-causing and normal intake stays below the safety limit, but the acceptable daily amount has been lowered twice by European experts and some scientific questions remain open.\n\n---\n\n## 2. Additive detail\n\n### E202 — Potassium sorbate (preservative)\n\n**Classification: Controversial**\n\nPotassium sorbate is used to keep food from spoiling. European food safety assessments found no evidence that it damages genes or causes cancer, and estimated that people's current intake stays below the safe daily limit (https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144, https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/). However, that safe daily limit has been reduced compared with the older value: it went from 25 mg per kg of body weight per day (set in 1996) down to a temporary 3 mg in 2015, and was then set at 11 mg in 2019 — still much lower than the original figure (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/). The reason for the change was findings in animal studies on reproduction and development, seen only at very high doses, which experts judged important enough to justify revising the limit (https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144). This mix of \"no cancer or genetic concern\" on one side and \"limit lowered, questions still open\" on the other is why it is listed as controversial rather than simply OK.\n\n**Points to know (all taken from the assessments cited above):**\n\n- **What the animal studies showed:** in a two-generation study, effects included a decrease in anogenital distance in male second-generation pups at medium and high doses, lower average litter weight, and delays in physical and functional development; the no-effect level for developmental effects was 300 mg/kg body weight per day. A newer study reported lower ovary and uterus weights in high-dose females, reduced body-weight gain in pups and adults, higher blood cholesterol (up to +30%) and increased liver weight. These effects appeared only at very high doses, and the current limit includes a standard 100-fold safety margin (https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144, https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/).\n- **An open scientific question:** experts noted that substances formed when sorbic acid reacts with nitrites, or with vitamin C in the presence of iron salts, were shown to affect genes in laboratory tests. These ingredients are allowed together in certain food categories, and no study exists on what is actually formed in real foods during processing and storage. An industry report submitted in 2019 brought no new information, so this gap remains open (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/).\n- **Who consumes the most:** in the 2015 review, the temporary daily limit was not exceeded overall, except among toddlers and children in one country at high consumption levels (https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144).\n- **No cancer classification:** none of the sources reviewed mention any IARC (International Agency for Research on Cancer) classification for this additive, and no carcinogenic effect was found in mice (https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144).\n\n---\n\n## 3. Additives with insufficient data\n\nNone. The single additive listed for this product (E202) has been assessed, and no additive in this product falls into the \"insufficient data\" category."
+  },
+  "7290000103730": {
+    "product_id": "7290000103730",
+    "product_name": "Stir-Fry Mix with Fusilli Pasta 800g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "14 ingredients, 1 additive(s), additives with no concern"
+    },
+    "additive_ids": [
+      "xanthan_gum"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Stir-Fry Mix with Fusilli Pasta, 800 g — Tnuva\n\n---\n\n## Overall verdict\n\nThis product contains one additive under review, xanthan gum (E 415), which is classified as **OK**. Based on the available assessments, it raises no safety concern at the levels used in food.\n\n---\n\n## Additive review\n\n### Xanthan gum (E 415) — **OK**\n\nXanthan gum is a thickener widely used in prepared foods. European food safety assessments from 2017 and 2023 both concluded that there is no safety concern for the general population at the amounts actually used in food ([EFSA 2017](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4909); [2023 follow-up](https://pmc.ncbi.nlm.nih.gov/articles/PMC10157499/)). The additive is not absorbed by the body in its intact form, showed no concern for damage to genetic material, and was not linked to cancer in rat studies; long-term studies in rats and dogs found no adverse effects even at the highest dose tested (1,000 mg/kg body weight per day) ([EFSA 2017](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4909)).\n\nNo numerical daily limit (ADI) was set. It is worth being clear about what that means: in this case it reflects the additive's low toxicity, not a refusal or withdrawal of approval ([EFSA 2017](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4909)). The only effects reported in people were mild stomach discomfort in some adults consuming very large amounts (214 mg/kg body weight per day for ten days) — described as undesirable but not harmful ([EFSA 2017](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4909)). Changes in the digestive tract were seen in piglets only at doses far above what humans are exposed to ([2023 follow-up](https://pmc.ncbi.nlm.nih.gov/articles/PMC10157499/)).\n\nFor the most sensitive group — infants under 16 weeks fed foods for special medical purposes — the 2023 review examined the safety margin and concluded it \"does not raise concerns\" ([2023 follow-up](https://pmc.ncbi.nlm.nih.gov/articles/PMC10157499/)). No adverse effects were reported through post-marketing monitoring of infant formulae containing xanthan gum ([2023 follow-up](https://pmc.ncbi.nlm.nih.gov/articles/PMC10157499/)).\n\n---\n\n## Additives with insufficient data\n\nNone. All additives reviewed for this product had sufficient evidence available to reach a conclusion."
+  },
+  "7290116935942": {
+    "product_id": "7290116935942",
+    "product_name": "Soy Bio Pudding Banana Caramel 150g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "red",
+      "label": "🔴 red",
+      "transformation_level": "ULTRA_PROCESSED",
+      "additive_severity": 2,
+      "explanation": "ultra-processed product (3 additives) with a controversial additive: E306 (controversial)"
+    },
+    "additive_ids": [
+      "E1442",
+      "E306",
+      "E304i"
+    ],
+    "report": "# Food Safety Report\n## Soy Bio Pudding Banana Caramel, 150 g — Tnuva\n\n---\n\n### Overall verdict\n\nThis product contains three additives, two of which (E1442 and E304i) have been assessed by food safety authorities as raising no safety concern at the levels used in food. The third (E306, tocopherols) is not flagged for any proven harm either, but is classified as controversial because parts of its safety data are incomplete and it may matter for a small group of people (see below).\n\n---\n\n### Additive by additive\n\n#### E1442 — Hydroxypropyl starch phosphate (modified starch)\n**Classification: OK**\n\nThis is a modified starch used to give the pudding its texture. The European Food Safety Authority (EFSA) reviewed modified starches and concluded there is no safety concern at the amounts used in food, and that no maximum daily intake figure was even needed. The reason is that this kind of starch is not absorbed as such: it is broken down in the gut like ordinary starch. Long-term animal studies with very high doses showed no effects relevant to human safety, and no concern about DNA damage was identified. The only point raised by the reviewers about E1442 concerns purity limits for trace metals in the manufacturing specifications, not the additive itself.\n*(Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)*\n\n---\n\n#### E306 — Tocopherol-rich extract (a natural vitamin E antioxidant)\n**Classification: Controversial**\n\nE306 is a natural antioxidant used to keep fats in the product from going rancid. EFSA's overall conclusion in 2015 was reassuring: tocopherols \"are not of safety concern at the levels used in food\", and there is no concern that they cause cancer or damage DNA. However, several gaps led to a cautious rating rather than a clean \"OK\": no acceptable daily intake could be set because the data were considered too limited, data on effects on reproduction and development were explicitly insufficient, and the data specifically on tocopherol-rich extract (E306 itself) were judged too limited to be used directly — the assessment relies on a closely related substance instead. EFSA also noted that in one national survey, children exceeded the recommended upper intake level for vitamin E. Finally, the review identifies one sensitive group: people with a vitamin K deficiency or taking blood-thinning (anticoagulant) medication, for whom high vitamin E intake is described as contraindicated. In short, the concern comes from incomplete information and one specific at-risk group, not from any demonstrated harm at food-additive levels.\n*(Source: https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4247)*\n\n---\n\n#### E304(i) — Ascorbyl palmitate\n**Classification: OK**\n\nThis is another antioxidant, derived from vitamin C and a common dietary fat. Both EFSA opinions on this additive conclude there is no safety concern at the reported uses and levels. In the body it is broken down almost entirely into vitamin C (ascorbic acid) and palmitic acid — two substances already found in a normal diet — so its safety was assessed on that basis. Its acute toxicity is very low, the available test for DNA damage was negative, and the long-term animal study available showed no effects linked to the additive. A 2020 follow-up review also concluded that its use in infant formula and in foods for special medical purposes for infants does not raise health concerns. EFSA did note that no numerical acceptable daily intake was set and that some study types (short-term and reproductive studies) were missing, but this reflects a lack of data rather than an identified risk, and it did not lead the experts to flag any concern.\n*(Sources: https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4289 and https://pmc.ncbi.nlm.nih.gov/articles/PMC7448004/)*\n\n---\n\n### Note on data availability\n\nNone of the three additives in this product falls into the \"insufficient data\" category — each has been formally assessed. That said, the assessments of E306 and, to a lesser extent, E304(i) do mention specific gaps in the underlying studies, as described above."
+  },
+  "7290110329846": {
+    "product_id": "7290110329846",
+    "product_name": "Soy Pudding BIO No Sugar 150g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: E306 (controversial)"
+    },
+    "additive_ids": [
+      "E306",
+      "E304i"
+    ],
+    "report": "# Food Safety Report\n\n## Soy Pudding BIO No Sugar 150 g — Tnuva\n\n---\n\n### Overall verdict\n\nThis product contains two additives, both antioxidants used to keep fats in the food from going rancid. One (E304i, ascorbyl palmitate) is considered fine at the levels used in food, while the other (E306, tocopherol-rich extract) is rated controversial — not because a harm has been demonstrated, but because official reviewers found the available data incomplete and identified one group of people who should be careful.\n\n---\n\n### Additive by additive\n\n#### E306 — Tocopherol-rich extract (a natural form of vitamin E)\n**Classification: Controversial**\n\nIn its 2015 re-evaluation, the European Food Safety Authority (EFSA) concluded that tocopherols (E 306–E 309) \"are not of safety concern at the levels used in food,\" and stated there is \"no concern that tocopherols are genotoxic or carcinogenic.\" So there is no established hazard and no cancer classification attached to this additive.\n\nThe reason it is still flagged as controversial is that EFSA's experts pointed to several gaps rather than to proven problems. They could not set an Acceptable Daily Intake because the available data were \"too limited,\" data on reproduction and development were described as \"insufficient,\" and the dataset on tocopherol-rich extract itself — that is, E 306 specifically — was judged \"too limited to be included in the safety assessment,\" so the conclusion relies on comparison with a related substance (α-tocopherol). EFSA also noted that the Tolerable Upper Intake Level was exceeded among children in one survey in one country.\n\nOne specific group is singled out in the review: people with vitamin K deficiency or taking anticoagulant (blood-thinning) medication. The sources state that a high vitamin E intake is contraindicated in these people, and cite a study in which prothrombin time (a measure of blood clotting) increased significantly in patients on warfarin taking 67 or 268 mg of α-tocopherol per day. Prolonged coagulation time is described as the critical adverse effect, with a no-effect level of 125 mg per kg of body weight per day in animal studies. For reference, the Scientific Committee on Food set an upper intake level for vitamin E of 300 mg/day for adults.\n\n*(Source: https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4247)*\n\n---\n\n#### E304i — Ascorbyl palmitate (a fat-soluble form of vitamin C)\n**Classification: OK**\n\nEFSA concluded in 2015 that \"there is no safety concern for the use of ascorbyl palmitate (E 304(i))… as a food additive at the reported uses and use levels.\" Once eaten, this additive is broken down almost entirely in the digestive tract into vitamin C and palmitic acid — two substances that are already normal parts of the diet — so its safety is assessed on that basis.\n\nThe supporting evidence is reassuring on the points that were tested: acute toxicity is very low, the available bacterial test for mutagenicity was negative, and an old long-term study found no lesions related to treatment (bladder stones in two rats were judged spontaneous by both the study authors and EFSA). Estimated intakes (roughly 0.3–10.8 mg per kg of body weight per day) were not considered to raise concern. A 2020 EFSA follow-up also concluded that use in infant formula and in foods for special medical purposes for infants under 16 weeks \"does not raise safety concerns.\"\n\nAs with E306, no numerical Acceptable Daily Intake was set, but here this reflects a thin database rather than an identified problem (an earlier international committee had set a figure of 1.25 mg/kg body weight per day). EFSA openly notes that no short-term, subchronic, reproductive or developmental studies were available and that only one genotoxicity study exists — but none of these gaps led the panel to flag a risk.\n\n*(Sources: https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4289 and https://pmc.ncbi.nlm.nih.gov/articles/PMC7448004/)*\n\n---\n\n### Note on data completeness\n\nNo additive in this product falls into the \"insufficient data\" category — both have been formally evaluated by EFSA. However, it is worth being transparent that both evaluations mention incomplete datasets. For E304i, the reviewers still reached a clear \"no safety concern\" conclusion; for E306, the gaps were significant enough (including on the specific substance used as the additive) that no Acceptable Daily Intake could be established, which is why it is rated controversial rather than OK."
+  },
+  "7290116936215": {
+    "product_id": "7290116936215",
+    "product_name": "GO Yogurt Bottom Layer Apple Pie Flavor",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "red",
+      "label": "🔴 red",
+      "transformation_level": "ULTRA_PROCESSED",
+      "additive_severity": 2,
+      "explanation": "ultra-processed product (3 additive(s), including a synthetic sweetener/flavor enhancer (aspartame, acesulfame_k)) with a controversial additive: aspartame (controversial)"
+    },
+    "additive_ids": [
+      "E1442",
+      "aspartame",
+      "acesulfame_k"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** GO Yogurt Bottom Layer Apple Pie Flavor (Tnuva)\n\n---\n\n## Overall verdict\n\nOf the three additives reviewed in this product, two (modified starch E1442 and acesulfame K) are considered safe at the levels used in food by the European Food Safety Authority (EFSA). The third, aspartame, is also judged not to be of safety concern for the general population at current intake levels, but it carries specific caveats — notably that it is unsuitable for people with phenylketonuria (PKU) — which is why it is flagged as controversial.\n\n---\n\n## Additive-by-additive review\n\n### E1442 — Hydroxypropyl starch phosphate (modified starch)\n**Classification: OK**\n\nThis is a modified starch used to give texture and thickness. EFSA's re-evaluation concluded there is no safety concern at the reported uses and use levels, and that no numerical daily limit (ADI) is needed. The body does not absorb it as-is: it is broken down in the gut and fermented, producing end products that EFSA states do not raise any safety concern. Long-term animal studies at very high intakes showed no effects relevant to human risk, and no genetic-damage concern was identified ([EFSA opinion](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\nOne point of context: EFSA did note a data gap for infants and young children consuming special medical foods, but that gap applies to other modified starches (such as E1450), not to E1442. The only recommendation concerning E1442 was to tighten the allowed limits for trace metal impurities (arsenic, lead, mercury) — a purity/manufacturing standard, not a property of the additive itself ([same source](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\n---\n\n### Aspartame — Sweetener (E951)\n**Classification: Controversial**\n\nEFSA's 2013 re-evaluation concluded that aspartame is **not** of safety concern at current exposure estimates or at its acceptable daily intake (ADI) of 40 mg per kg of body weight per day, and the panel saw no reason to lower that limit. Long-term animal studies did not show an increase in tumours, and the overall weight of evidence did not indicate a concern for genetic damage ([EFSA opinion](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3496)).\n\nIt is nonetheless classified as controversial rather than simply \"OK\" for three reasons stated by EFSA itself. First, the panel explicitly says the ADI **does not apply to people with phenylketonuria (PKU)**, a genetic condition; people who carry one copy of the PKU gene also have a narrower safety margin than the general population. Second, the panel could not rule out the possibility of developmental effects in animals at doses below the level it tested as safe, and pointed to remaining uncertainties in the available human and animal data. Third, one study reported an \"equivocal positive\" genetic-damage result in one group of specially bred female mice, although the overall conclusion across all studies was negative ([EFSA opinion](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3496)).\n\nIn short: no proven hazard for the general population according to this source, but enough open questions and one clearly identified sensitive group to warrant caution. No international cancer-agency classification is mentioned in the source consulted.\n\n---\n\n### Acesulfame K — Sweetener (E950)\n**Classification: OK**\n\nEFSA's 2025 re-evaluation states plainly that there is no safety concern at the reported uses and use levels. Notably, the panel **raised** the acceptable daily intake to 15 mg per kg of body weight per day (up from the previous 9 mg), which is the opposite of a precautionary tightening. Estimated intakes, including among the highest consumers, were generally below this limit across all population groups ([EFSA re-evaluation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12041894/)).\n\nNo concern for genetic damage was found for acesulfame K or its breakdown products, and no cancer classification is mentioned. The only caution raised concerns a possible manufacturing impurity (5-chloro-acesulfame), for which EFSA recommended either a strict maximum limit or additional data — again a question of production purity rather than the sweetener itself ([same source](https://pmc.ncbi.nlm.nih.gov/articles/PMC12041894/)).\n\n---\n\n## Note on data gaps\n\nNone of the three additives reviewed here falls into the \"insufficient data\" category — each has been formally evaluated by EFSA with conclusions available. Where uncertainties remain (the limited data behind some aspartame conclusions, and the impurity questions for E1442 and acesulfame K), these are described above as the sources state them."
+  },
+  "7290116932712": {
+    "product_id": "7290116932712",
+    "product_name": "GO Bagel Chips with Salt Fortified with Protein and Fiber 50g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "orange",
+      "label": "🟠 orange",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 2,
+      "explanation": "controversial additive: E450ii (controversial)"
+    },
+    "additive_ids": [
+      "E450ii",
+      "E500ii"
+    ],
+    "report": "# Food Safety Report\n\n## GO Bagel Chips with Salt, Fortified with Protein and Fiber – 50 g (Tnuva)\n\n---\n\n## Overall verdict\n\nThis product contains two additives: one raising some questions (a phosphate-based additive, E450ii) and one for which we simply do not have usable information (E500ii). Nothing in the available evidence points to a proven hazard, but one additive deserves a note of caution, particularly for children and for people with reduced kidney function.\n\n---\n\n## Additive by additive\n\n### E450ii – Disodium diphosphate\n**Classification: Controversial**\n\nEuropean food safety authorities re-examined phosphate additives in 2019 and found no concern regarding cancer risk or genetic damage, low toxicity when swallowed, and no harmful effects in studies on development. They set a maximum recommended daily intake of 40 mg of phosphorus per kilogram of body weight per day and considered this level protective for the general population. However, the experts pointed out that, in practice, estimated intake from the overall diet goes beyond this level for infants, toddlers and other children on average, and for infants, toddlers, children and adolescents among the highest consumers; intake from food supplements also exceeds it. They also stated clearly that this recommended limit does not apply to people with moderate to severe kidney impairment. Possible links between high phosphorus intake and bone or heart health were discussed, but the panel concluded the evidence was insufficient to establish a cause-and-effect relationship. This is why the additive is flagged as controversial rather than simply \"OK\" or \"to avoid\" ([EFSA 2019](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674)).\n\n---\n\n### E500ii – Sodium hydrogen carbonate (bicarbonate)\n**Classification: Insufficient data**\n\nWe cannot give an assessment of this additive. The document available under this reference does not deal with E500ii at all: it is an opinion about a completely different substance, a veterinary feed additive for rabbits ([EFSA 2018](https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5209)). No safety data, no recommended intake limit and no conclusion concerning E500ii appear in the material provided. This absence of information should not be read either as a reassurance or as a warning — it simply means no verdict can be given here.\n\n---\n\n## In short\n\n| Additive | Classification |\n|---|---|\n| E450ii | Controversial |\n| E500ii | Insufficient data |\n\nThe main point of attention concerns E450ii, mainly because overall dietary intake of phosphates can exceed recommended levels in children, and because people with moderate to severe kidney impairment are explicitly excluded from the recommended intake limit."
+  },
+  "7290110324773": {
+    "product_id": "7290110324773",
+    "product_name": "GO Protein Drink Vanilla 340ml",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "red",
+      "label": "🔴 red",
+      "transformation_level": "ULTRA_PROCESSED",
+      "additive_severity": 2,
+      "explanation": "ultra-processed product (3 additives) with a controversial additive: E471 (controversial)"
+    },
+    "additive_ids": [
+      "E500",
+      "E471",
+      "E407"
+    ],
+    "report": "# Food Safety Report — GO Protein Drink Vanilla 340 ml (Tnuva)\n\n## Overall verdict\n\nThis drink contains three additives: two of them (E471 and E407) are classified as **controversial** — official European evaluations found no proven hazard from the additives themselves, but flagged uncertainties, impurity issues, and sensitive groups such as infants and toddlers. For the third (E500), the documents available do not allow any conclusion to be drawn.\n\n---\n\n## E500 — Insufficient data\n\n**Classification: insufficient data**\n\nWe cannot give an opinion on this additive. The document available in our source set does not deal with E500 at all: it is a European Food Safety Authority (EFSA) opinion on a completely different substance (salinomycin sodium, an additive used in animal feed for rabbits). No safety information, no acceptable daily intake and no conclusion about E500 appears anywhere in that text.\n\nTo be clear: **this is not a warning and not a clean bill of health** — it simply means the evidence needed to classify E500 is missing here (https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5209).\n\n---\n\n## E471 — Mono- and diglycerides of fatty acids — Controversial\n\n**Classification: controversial**\n\n**Why it is not a concern in itself:** Once swallowed, E471 is broken down in the digestive system into glycerol and fatty acids — two substances that European experts have themselves reviewed and considered of no safety concern. Animal studies (short-term, long-term, and on reproduction and development) showed no harmful effects, and no cancer-causing or DNA-damaging potential was identified. EFSA concluded in 2017 that no maximum daily intake figure was needed and that E471 was \"of no safety concern at the reported uses and use levels\", including for infants under 16 weeks (https://pmc.ncbi.nlm.nih.gov/articles/PMC7010209/).\n\n**Why it is nevertheless flagged as controversial:** In a 2021 re-examination, EFSA looked at the *impurities* that can be present in E471 (rather than the additive itself). It found that estimated intakes exceeded the reference values for a substance called 3-MCPD in infants under 16 weeks, and for glycidyl esters and erucic acid across all age groups. The panel called for the current limits on arsenic, lead, cadmium and mercury in E471 to be lowered, and for new limits to be set for these impurities (https://pmc.ncbi.nlm.nih.gov/articles/PMC8573540/).\n\n**A remaining knowledge gap:** EFSA also noted that studies on other emulsifiers have shown effects on gut bacteria, and that this \"might also be relevant to emulsifiers in general\" — but no specific study exists on E471 and gut bacteria. This is an acknowledged gap, not a demonstrated effect (https://pmc.ncbi.nlm.nih.gov/articles/PMC8573540/).\n\n---\n\n## E407 — Carrageenan — Controversial\n\n**Classification: controversial**\n\n**Why it is not classed as \"avoid\":** Food-grade carrageenan did not raise concerns about DNA damage or cancer in EFSA's review, and animal studies showed no adverse effects even at the highest doses tested (https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238).\n\n**Why it is flagged as controversial:** EFSA explicitly listed uncertainties about the chemistry of the additive, about how much people actually consume, and about the biological data. As a result, the existing acceptable daily intake of 75 mg per kg of body weight was made only **temporary**, with a request for the evidence base to be improved within five years. In addition, estimated intakes for toddlers who regularly consume the same brands reached up to roughly ten times that temporary daily figure. Results between studies were also inconsistent, with one long-term rat study pointing to effects at a much lower dose than others (https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238).\n\n**One further point:** EFSA was informed by an interested party that carrageenan on the market does not necessarily meet EU specifications regarding its low molecular weight fraction. That fraction resembles \"degraded carrageenan\", a different substance which is **not authorised as a food additive** and which caused intestinal damage and tumours in rats and intestinal lesions and anaemia in monkeys. This concerns the unauthorised degraded form, not food-grade carrageenan itself (https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238).\n\n---\n\n*This report summarises only the classifications and evidence provided. No additional medical or toxicological information has been added.*"
+  },
+  "7290110321697": {
+    "product_id": "7290110321697",
+    "product_name": "Yoplait GO Peach 20g Protein Yogurt",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "8 ingredients, 1 additive(s), additives with no concern"
+    },
+    "additive_ids": [
+      "E1422"
+    ],
+    "report": "# Food Safety Report\n\n## Yoplait GO Peach 20g Protein Yogurt (Tnuva)\n\n---\n\n### Overall verdict\n\nThis product contains one additive of note, E1422 (acetylated distarch adipate), which European food safety authorities have assessed as raising no safety concern at the levels used in food. Based on the information reviewed, there is nothing in this product's additive profile that warrants caution.\n\n---\n\n### Additive details\n\n#### E1422 — Acetylated distarch adipate\n**Classification: OK**\n\nE1422 is a modified starch, used as a thickener or texture agent. When the European Food Safety Authority (EFSA) re-evaluated modified starches, it concluded that there is no safety concern for E1422 at the reported uses and levels, and that no numerical daily limit (ADI) was needed. E1422 was in fact one of the additives with the most complete set of safety data available, and long-term studies in rats fed very high amounts showed no effects relevant to human health. The body does not absorb modified starches as-is: they are broken down by digestive enzymes and then processed by gut bacteria. ([EFSA re-evaluation of modified starches](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf))\n\nTwo points worth clarifying, so the picture is complete:\n\n- EFSA did raise a restriction concerning infants and young children consuming foods for special medical purposes — but that restriction applied to a different list of modified starches (E1404, E1410, E1412, E1413, E1414, E1420, E1450, E1451). **E1422 was not included in that list.** ([same source](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf))\n- The only recommendation EFSA made specifically touching E1422 was to tighten the allowed limits for trace metal impurities (arsenic, lead, mercury) in the manufacturing specifications. This concerns the purity standards of how the ingredient is produced, not a hazard of the additive itself. ([same source](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf))\n\nNo genotoxicity concern was identified, based on computer-based (in silico) analysis, and no carcinogenic classification is mentioned in the source material.\n\n---\n\n### Note on scope\n\nThis report covers only the additive listed above, as classified in the source data provided. It does not assess the product's nutritional content (sugar, protein, fat, etc.), nor any ingredients that are not classified additives."
+  },
+  "danone-cranch-strawberry-cornflakes-glutenfree": {
+    "product_id": "danone-cranch-strawberry-cornflakes-glutenfree",
+    "product_name": "Danone Cranch Strawberry Yogurt with Cornflakes Coated in Milk Chocolate Gluten-Free 3.8% Fat",
+    "brand": "Strauss",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "16 ingredients, 1 additive(s), additives with no concern"
+    },
+    "additive_ids": [
+      "E1442"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Danone Cranch Strawberry Yogurt with Cornflakes Coated in Milk Chocolate, Gluten-Free, 3.8% Fat (brand: Strauss)\n\n---\n\n## 1. Overall verdict\n\nThis product contains one listed additive, E1442, which is classified as **OK** based on the European Food Safety Authority's (EFSA) re-evaluation. On the basis of the additives assessed here, there is no safety concern flagged for this product.\n\n---\n\n## 2. Additive by additive\n\n### E1442 — Hydroxypropyl starch phosphate (modified starch)\n**Classification: OK**\n\nE1442 is a modified starch used to give texture and thickness to foods. EFSA concluded that there is no safety concern for modified starches at the amounts actually used in food, and that no maximum daily intake figure (ADI) needs to be set. According to the same review, modified starches are not taken up into the body as they are: they are broken down in the digestive system and then fermented by gut bacteria, and the resulting substances \"do not raise any safety concern.\" In long-term animal studies, even very high amounts (up to 31,000 mg per kg of body weight per day in rats) produced no effects considered relevant to human risk, and computer-based analysis found no concern regarding effects on DNA ([EFSA re-evaluation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\nTwo points of context, for completeness and transparency:\n\n- EFSA noted a data gap for infants and young children consuming foods for special medical purposes and special formulae, but that gap concerns other modified starches (E1450, and E1404, E1410, E1412, E1413, E1414, E1420, E1451) — **E1442 is not among them**.\n- EFSA recommended revising the maximum permitted limits for arsenic, lead and mercury impurities in the EU specifications for all modified starches, including E1442. This is a purity/manufacturing-standards issue, not a hazard attributed to the additive itself ([same source](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)).\n\n---\n\n## 3. Additives with insufficient data\n\nNone of the additives reviewed for this product fall into the \"insufficient data\" category.\n\n---\n\n*Note: This report covers only the additive(s) provided in the classification list. It does not assess other aspects of the product, such as sugar, fat or overall nutritional content.*"
+  },
+  "danone-pro-lemoncream-nosugar": {
+    "product_id": "danone-pro-lemoncream-nosugar",
+    "product_name": "Danone PRO Lemon Cream Flavor No Added Sugar 20g Protein 0% Fat",
+    "brand": "Strauss",
+    "verdict": {
+      "color": "red",
+      "label": "🔴 red",
+      "transformation_level": "ULTRA_PROCESSED",
+      "additive_severity": 2,
+      "explanation": "ultra-processed product (3 additive(s), including a synthetic sweetener/flavor enhancer (sucralose, acesulfame_k)) with a controversial additive: sucralose (controversial)"
+    },
+    "additive_ids": [
+      "E1442",
+      "acesulfame_k",
+      "sucralose"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Danone PRO Lemon Cream Flavor — No Added Sugar, 20 g Protein, 0% Fat (brand: Strauss)\n\n---\n\n## Overall verdict\n\nThis product contains three additives: two of them (modified starch E1442 and acesulfame K) are considered safe by European food safety authorities at the levels used in food. The third, sucralose, is also considered safe at current authorised uses, but experts have flagged one unresolved question about what happens to it at high cooking temperatures — so we class it as \"controversial\" rather than fully \"OK\".\n\n---\n\n## Additive by additive\n\n### E1442 — Hydroxypropyl starch phosphate (modified starch)\n**Classification: OK**\n\nThis is a starch that has been chemically modified so it thickens and stabilises food. The European Food Safety Authority (EFSA) reviewed modified starches and concluded there is no safety concern at the amounts used in food — so much so that no maximum daily intake figure was considered necessary. The reason is that these starches are not absorbed as such by the body: they are broken down in the gut and fermented, producing substances that raise no safety concern. Long-term animal studies at very high doses showed no effects relevant to human health, and no concern about damage to DNA was identified. ([EFSA re-evaluation](https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf))\n\nOne point of context: EFSA did note a data gap for infants and young children who consume special medical foods, but that gap concerns *other* modified starches (such as E1450), not E1442. The only remark specifically touching E1442 was a technical request to tighten the allowed limits for trace metal impurities (arsenic, lead, mercury) — a purity/manufacturing quality issue, not a problem with the additive itself.\n\n---\n\n### Acesulfame K (E950) — sweetener\n**Classification: OK**\n\nAcesulfame K is a calorie-free sweetener. EFSA re-evaluated it in 2025 and stated plainly that there is no safety concern at the reported uses and levels. The experts set an acceptable daily intake of 15 mg per kg of body weight per day — notably, this is *higher* than the previous limit of 9 mg/kg, meaning the review made the assessment less restrictive, not more. Estimated intakes, even among the highest consumers (95th percentile), were generally below that limit in all population groups. No concern was found regarding DNA damage, either for the sweetener or its breakdown products. ([EFSA 2025 re-evaluation](https://pmc.ncbi.nlm.nih.gov/articles/PMC12041894/))\n\nThe single caution raised concerns a possible manufacturing impurity (5-chloro-acesulfame), for which EFSA recommended setting a strict maximum limit or obtaining more data. Again, this is about production purity standards, not about the sweetener as normally used.\n\n---\n\n### Sucralose (E955) — sweetener\n**Classification: Controversial**\n\nFor the uses currently allowed in Europe — which includes products like this one — EFSA's conclusion is reassuring. The Panel kept the acceptable daily intake at 15 mg per kg of body weight per day, and found that estimated intakes, including for high consumers, stay below that level in all population groups. No concern was identified regarding DNA damage from sucralose or its impurities. EFSA also examined and rejected a study (Ramazzini Institute) that had suggested sucralose caused blood-related tumours in male mice, noting there was no dose–response relationship and no such effect in adequate studies in rats and mice. ([EFSA 2017 statement](https://pmc.ncbi.nlm.nih.gov/articles/PMC7010144/), [EFSA opinion](https://pmc.ncbi.nlm.nih.gov/articles/PMC12911467/))\n\nWhy \"controversial\" then? Because EFSA itself left one question open. When asked whether sucralose could be extended to fine bakery products, the Panel said it **could not reach a conclusion**, because of uncertainty about whether chlorinated compounds might form when sucralose is exposed to the wide range of baking conditions. It also recommended that authorities look into possible unwanted breakdown products when people cook at home at high temperatures, such as frying or baking. Nothing harmful has been demonstrated — this is an acknowledged gap in knowledge, not a proven risk. EFSA additionally recommended tightening the purity specifications (specific limits for two impurities, 4-CG and 1,6-DCF, and a lower lead limit). ([EFSA opinion](https://pmc.ncbi.nlm.nih.gov/articles/PMC12911467/))\n\nSince this product is a chilled dairy-type product, not a baked one, the high-temperature question does not directly apply to how it is consumed.\n\n---\n\n## Note on data gaps\n\nNone of the three additives in this product falls into the \"insufficient data\" category. Where uncertainties exist, they have been described above and attributed to the source that raised them."
+  },
+  "danone-fruit-peach-150g": {
+    "product_id": "danone-fruit-peach-150g",
+    "product_name": "Danone Yogurt with Peach 3% Fat 150g",
+    "brand": "Strauss",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "11 ingredients, 1 additive(s), additives with no concern"
+    },
+    "additive_ids": [
+      "E1442"
+    ],
+    "report": "# Food Safety Report\n\n**Product:** Danone Yogurt with Peach 3% Fat, 150 g (brand: Strauss)\n\n---\n\n## Overall verdict\n\nThis yogurt contains one listed additive, a modified starch (E1442), which is classified as **OK**. Based on the evidence reviewed, there is no safety concern identified for this additive at the levels used in food.\n\n---\n\n## Additive-by-additive review\n\n### E1442 — Hydroxypropyl starch phosphate (modified starch)\n\n**Classification: OK**\n\nThe European Food Safety Authority (EFSA) reviewed modified starches, including E1442, and concluded that there is no safety concern at the amounts actually used in foods — so much so that no maximum daily intake figure (ADI) was considered necessary (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf).\n\nThe reason is largely how the body handles it: modified starches are not absorbed as such, but are broken down by digestive enzymes and then fermented by gut bacteria, producing substances that EFSA said do not raise any safety concern. Long-term animal studies using very high amounts (up to 31,000 mg per kg of body weight per day in rats) showed no effects relevant to human risk assessment, and computer-based analysis did not flag a concern regarding effects on DNA (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf).\n\nTwo points worth noting for transparency. First, EFSA did identify a data gap for infants and young children consuming special medical foods and special formulae — but that gap concerns other modified starches (E1450, and E1404, E1410, E1412, E1413, E1414, E1420, E1451), **not** E1442. Second, EFSA recommended tightening the permitted limits for trace impurities (arsenic, lead, mercury) in the official specifications for all modified starches, including E1442. This is a purity/manufacturing-quality issue rather than a concern about the additive itself (https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf).\n\n---\n\n*Note: This report covers only the additive listed above. It does not assess other aspects of the product such as its nutritional content.*"
+  },
+  "7290000120874": {
+    "product_id": "7290000120874",
+    "product_name": "Light Spread 424g",
+    "brand": "Hellmann's",
+    "verdict": {
+      "color": "red",
+      "label": "🔴 red",
+      "transformation_level": "ULTRA_PROCESSED",
+      "additive_severity": 2,
+      "explanation": "ultra-processed product (3 additives) with a controversial additive: E200 (controversial)"
+    },
+    "additive_ids": [
+      "E1442",
+      "E200",
+      "E385"
+    ],
+    "report": "# Food Safety Report — Hellmann's Light Spread (424 g)\n\n## Overall verdict\n\nThis spread contains three additives: one considered safe by European regulators, one that carries some open questions, and one for which we simply don't have assessment data on hand. Nothing in the available evidence points to a proven hazard at normal use levels, but one additive (E200) deserves a nuanced look.\n\n---\n\n## Additive by additive\n\n### E1442 — Hydroxypropyl starch phosphate\n**Classification: OK**\n\nThis is a modified starch used to give texture and thickness. The European Food Safety Authority (EFSA) reviewed modified starches of this type and concluded there is no safety concern at the levels used in food, to the point that no maximum daily intake figure was considered necessary. The reason is straightforward: the body doesn't absorb this starch as-is — it is broken down in the digestive system and fermented by gut bacteria, producing substances that raise no concern. Long-term animal studies at very high doses showed no effects relevant to human health, and no concern was identified regarding effects on DNA.\n\nOne point worth noting for transparency: EFSA recommended tightening the purity limits for trace metals (arsenic, lead, mercury) in the manufacturing specifications. This is a manufacturing-quality issue, not a problem with the additive itself. A separate data gap flagged by EFSA — concerning infants and young children using special medical foods — applies to other modified starches, not to E1442.\n(Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf)\n\n---\n\n### E200 — Sorbic acid\n**Classification: Controversial**\n\nSorbic acid is a preservative used to prevent mould and yeast growth. EFSA has not identified a proven hazard at authorised levels: no effect on DNA was found for sorbic acid or potassium sorbate, no cancer-causing effect was seen in long-term animal studies, and in 2019 EFSA set an acceptable daily intake of 11 mg per kg of body weight, concluding that people's actual intake would not exceed it.\n\nSo why \"controversial\"? Because the acceptable daily limit has been revised downward significantly over time — from 25 mg/kg in 1996, down to a temporary 3 mg/kg in 2015, then settled at 11 mg/kg in 2019. The reason for that revision was findings in rat studies concerning reproduction and development: reduced anogenital distance in male second-generation pups, delays in physical and functional development, lower ovary and uterus weights and increased blood cholesterol at high doses. In the 2015 assessment, the temporary limit was exceeded by toddlers and children in one country.\n\nEFSA also flagged an unresolved question: sorbic acid can react with nitrites, or with vitamin C in the presence of iron, to form substances shown to affect DNA in laboratory tests — and no study has yet examined whether this happens in real foods during processing and storage. Separately, calcium sorbate (E203, a different additive) was excluded from the shared daily limit for lack of data; this does not apply to E200 itself.\n(Sources: https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144, https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/)\n\n---\n\n### E385 — Calcium disodium EDTA\n**Classification: Insufficient data**\n\nWe have no EFSA assessment on file for this additive. This means we cannot say whether it is safe, problematic, or anything in between — the absence of data here is a gap in our information, not evidence of either safety or risk. Anyone wanting a conclusion on E385 will need to consult a source with a completed evaluation.\n(Source: none available)\n\n---\n\n*This report summarises existing published classifications and adds no additional health information.*"
+  },
+  "7290116933719": {
+    "product_id": "7290116933719",
+    "product_name": "Tnuva White Cheese 5% Fat 750g EDCH",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "2 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290000107615": {
+    "product_id": "7290000107615",
+    "product_name": "Asian Vegetable Stir-Fry Mix Rabbanut 800g",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "PROCESSED",
+      "additive_severity": 0,
+      "explanation": "7 ingredients, 0 additive(s), additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290116935614": {
+    "product_id": "7290116935614",
+    "product_name": "Yoplait GO Protein 25g Natural Flavor Yogurt",
+    "brand": "Tnuva",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "3 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7296073675167": {
+    "product_id": "7296073675167",
+    "product_name": "משקה בריסטה סויה",
+    "brand": "EVAN",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "5411188127697": {
+    "product_id": "5411188127697",
+    "product_name": "משקה בריסטה שיבולת שועל",
+    "brand": "אלפרו",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "5011157630281": {
+    "product_id": "5011157630281",
+    "product_name": "אורז לבן בסמטי",
+    "brand": "טילדה",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7296073705123": {
+    "product_id": "7296073705123",
+    "product_name": "גרעיני תירס מתוק",
+    "brand": "בית יהודה",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290112199942": {
+    "product_id": "7290112199942",
+    "product_name": "גרנולה תותים ללת\"ס",
+    "brand": "טרו",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290009137422": {
+    "product_id": "7290009137422",
+    "product_name": "ארגום פילה אמנון עורקפוא",
+    "brand": "ארגום",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290107978460": {
+    "product_id": "7290107978460",
+    "product_name": "קראנצ'וס פלאפל",
+    "brand": "קראנצ'וס",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7296073705871": {
+    "product_id": "7296073705871",
+    "product_name": "אגוזי קשיו טבעיים קלופים",
+    "brand": "הקולה מבגדד",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290006660640": {
+    "product_id": "7290006660640",
+    "product_name": "קמח טף",
+    "brand": "דג\"ש",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "5000108478119": {
+    "product_id": "5000108478119",
+    "product_name": "קוואקר שיבולת שועל",
+    "brand": "קוואקר",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290009136876": {
+    "product_id": "7290009136876",
+    "product_name": "מארז בצל יבש אורגני",
+    "brand": "גרין",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290000933740": {
+    "product_id": "7290000933740",
+    "product_name": "בשר טחון טרי",
+    "brand": "שופרסל",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290009802481": {
+    "product_id": "7290009802481",
+    "product_name": "קוקטייל טרי ארוז",
+    "brand": "כללי",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290002345343": {
+    "product_id": "7290002345343",
+    "product_name": "פילה לברק טרי",
+    "brand": "דגים טריים",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290015324533": {
+    "product_id": "7290015324533",
+    "product_name": "תבלין רוזמרין",
+    "brand": "טעם וריח",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7290000176079": {
+    "product_id": "7290000176079",
+    "product_name": "קפה טורקי עם הל",
+    "brand": "עלית",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  },
+  "7296073747741": {
+    "product_id": "7296073747741",
+    "product_name": "שוקולד לבן מעולה",
+    "brand": "פפה",
+    "verdict": {
+      "color": "green",
+      "label": "🟢 green",
+      "transformation_level": "MINIMALLY_PROCESSED",
+      "additive_severity": 0,
+      "explanation": "0 ingredients, no additives, additives with no concern"
+    },
+    "additive_ids": [],
+    "report": null
+  }
+}
