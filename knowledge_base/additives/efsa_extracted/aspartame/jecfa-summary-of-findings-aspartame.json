@@ -1,0 +1,13 @@
+{
+  "additive_id": "aspartame",
+  "source_url": "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/jecfa-summary-of-findings-aspartame.pdf",
+  "local_pdf_path": "knowledge_base\\additives\\efsa_raw\\aspartame\\jecfa-summary-of-findings-aspartame.pdf",
+  "source_sha256": "1ec09f3895b925ed135d92d2febf12e1d9264c121b62d402d7dac04ba9544f80",
+  "full_text_char_count": 30396,
+  "sections": {
+    "abstract": null,
+    "toxicology": null,
+    "adi": null,
+    "conclusions": null
+  }
+}

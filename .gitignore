@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+vector_store/
+knowledge_base/additives/efsa_raw/
+.claude/settings.local.json
+DEVNOTES.md

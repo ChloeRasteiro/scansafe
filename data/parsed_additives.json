@@ -1,0 +1,116 @@
+{
+  "7290116931241": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290110321277": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290014758681": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290000041445": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290000041452": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290004127077": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290004127329": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290004127336": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290116936154": {
+    "additives_parsed": [
+      "carrageenan"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290116934556": {
+    "additives_parsed": [
+      "carrageenan"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290014762220": {
+    "additives_parsed": [
+      "carrageenan"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290116934242": {
+    "additives_parsed": [
+      "carrageenan"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290004136857": {
+    "additives_parsed": [
+      "carrageenan"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290116932811": {
+    "additives_parsed": [
+      "lecithin"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290014760141": {
+    "additives_parsed": [
+      "lecithin"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "7290116932057": {
+    "additives_parsed": [
+      "lecithin"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "danone-bio-lactosefree-3pct-200g": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "danone-multi-minerals-vitd": {
+    "additives_parsed": [
+      "phosphates"
+    ],
+    "source_field": "ingredients_text_en"
+  },
+  "danone-actimel-pack16-strawberry": {
+    "additives_parsed": [
+      "guar_gum"
+    ],
+    "source_field": "ingredients_text_en"
+  }
+}

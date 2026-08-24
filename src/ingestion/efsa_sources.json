@@ -1,0 +1,242 @@
+{
+  "_comment": "ALL 81 unique additives in the dataset. URLs verified via research (August 2026), never invented. Several additives share the same group EFSA opinion (e.g. modified starches, phosphates, celluloses, carrageenans, tocopherols, glutamates, nitrites/nitrates, benzoates, propionates, acetic/lactic/citric acids) -> identical sources, expected. Entries with an empty list = no verified EFSA link found within the available time (often additives present in a single product).",
+  "E1442": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf"
+  ],
+  "E202": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/"
+  ],
+  "acesulfame_k": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12041894/"
+  ],
+  "E1422": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf"
+  ],
+  "sucralose": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12911467/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7010144/"
+  ],
+  "aspartame": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3496",
+    "https://cdn.who.int/media/docs/default-source/nutrition-and-food-safety/jecfa-summary-of-findings-aspartame.pdf"
+  ],
+  "E450iii": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E471": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7010209/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8573540/"
+  ],
+  "potassium_sorbate": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/"
+  ],
+  "guar_gum": [
+    "https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2017.4669",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11070944/"
+  ],
+  "methyl_cellulose": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009359/"
+  ],
+  "E407": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238"
+  ],
+  "E412": [
+    "https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2017.4669",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11070944/"
+  ],
+  "xanthan_gum": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4909",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10157499/"
+  ],
+  "E306": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4247"
+  ],
+  "E304i": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7448004/",
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4289"
+  ],
+  "E235": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2009.1412"
+  ],
+  "E452": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E330": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7448088/"
+  ],
+  "msg": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009848/"
+  ],
+  "sodium_nitrite": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009987/"
+  ],
+  "E450": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E466": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009359/"
+  ],
+  "E1420": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf"
+  ],
+  "soy_lecithin": [
+    "https://pubmed.ncbi.nlm.nih.gov/33204307/"
+  ],
+  "carrageenan": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238"
+  ],
+  "E451": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E234": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009836/"
+  ],
+  "E410": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010100/"
+  ],
+  "E415": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4909",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10157499/"
+  ],
+  "E414": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010027/",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7008789/"
+  ],
+  "caramel_coloring": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2011.2004"
+  ],
+  "curcumin": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2010.1679"
+  ],
+  "lycopene": [],
+  "E450i": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E452i": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E1414": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf"
+  ],
+  "E450ii": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E500ii": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5209"
+  ],
+  "E500": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5209"
+  ],
+  "stevia": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11533382/"
+  ],
+  "lecithin": [
+    "https://pubmed.ncbi.nlm.nih.gov/33204307/"
+  ],
+  "glycerol": [
+    "https://efsa.onlinelibrary.wiley.com/doi/full/10.2903/j.efsa.2017.4720"
+  ],
+  "E385": [],
+  "E481": [
+    "https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2013.3144"
+  ],
+  "E417": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009841/"
+  ],
+  "E331iii": [],
+  "E300": [
+    "https://doi.org/10.2903/j.efsa.2015.4087"
+  ],
+  "lactic_acid": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7448088/"
+  ],
+  "E282": [
+    "https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2014.3779"
+  ],
+  "calcium_propionate": [
+    "https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2014.3779"
+  ],
+  "E407a": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5238"
+  ],
+  "E575": [],
+  "E252": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010087/"
+  ],
+  "E433": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4152"
+  ],
+  "E331": [
+    "https://doi.org/10.2903/j.efsa.2014.3700"
+  ],
+  "E340": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E150a": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2011.2004"
+  ],
+  "E200": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/"
+  ],
+  "E460": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009359/"
+  ],
+  "E250": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009987/"
+  ],
+  "E261": [],
+  "E326": [],
+  "E508": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009240/"
+  ],
+  "E316": [
+    "https://doi.org/10.2903/j.efsa.2016.4360"
+  ],
+  "phosphates": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5674"
+  ],
+  "E635": [],
+  "E501": [],
+  "E503": [],
+  "E445": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009419/",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10355140/"
+  ],
+  "sulfites": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9685353/",
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4438"
+  ],
+  "sorbic_acid": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4144",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/"
+  ],
+  "benzoic_acid": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2016.4433"
+  ],
+  "anthocyanin": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2013.3145"
+  ],
+  "tocopherols": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2015.4247"
+  ],
+  "E476": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010163/",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9066526/"
+  ],
+  "maltitol": [],
+  "E460ii": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009359/"
+  ],
+  "E1404": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009865/pdf/EFS2-15-e04911.pdf"
+  ],
+  "sodium_benzoate": [
+    "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2016.4433"
+  ],
+  "E150d": [
+    "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2011.2004"
+  ]
+}
